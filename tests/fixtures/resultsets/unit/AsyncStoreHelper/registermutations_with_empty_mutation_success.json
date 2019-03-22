@@ -1,0 +1,11 @@
+[
+  "setAsyncFnPending",
+  "setAsyncFnSuccess",
+  "setAsyncFnFailure",
+  "setAnotherAsyncFnPending",
+  "setAnotherAsyncFnSuccess",
+  "setAnotherAsyncFnFailure",
+  "setLastFnPending",
+  "setLastFnSuccess",
+  "setLastFnFailure"
+]

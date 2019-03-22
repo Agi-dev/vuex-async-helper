@@ -1,0 +1,15 @@
+{
+  "successAsync": {
+    "api": "fake api service",
+    "state": {
+      "successAsyncLoading": false,
+      "successAsyncData": null,
+      "successAsyncError": null
+    },
+    "mutationsName": {
+      "PENDING": "setSuccessAsyncPending",
+      "SUCCESS": "setSuccessAsyncSuccess",
+      "FAILURE": "setSuccessAsyncFailure"
+    }
+  }
+}

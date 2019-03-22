@@ -1,0 +1,10 @@
+[
+  [
+    "setAsyncFnPending",
+    true
+  ],
+  [
+    "setAsyncFnFailure",
+    "expected_error"
+  ]
+]

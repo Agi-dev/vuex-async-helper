@@ -1,0 +1,12 @@
+[
+  [
+    "setAsyncFnPending",
+    true
+  ],
+  [
+    "setAsyncFnSuccess",
+    {
+      "data": "response data"
+    }
+  ]
+]

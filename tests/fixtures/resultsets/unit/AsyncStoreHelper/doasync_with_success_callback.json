@@ -1,0 +1,18 @@
+[
+  [
+    "setAsyncFnPending",
+    true
+  ],
+  [
+    "CALLBACK",
+    {
+      "data": "response data"
+    }
+  ],
+  [
+    "setAsyncFnSuccess",
+    {
+      "data": "response data"
+    }
+  ]
+]

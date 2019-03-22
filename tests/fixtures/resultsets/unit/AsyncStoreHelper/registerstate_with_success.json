@@ -1,0 +1,13 @@
+{
+  "value1": "value one",
+  "value2": {
+    "value3": [
+      1,
+      2,
+      3
+    ]
+  },
+  "asyncFnLoading": false,
+  "asyncFnData": null,
+  "asyncFnError": null
+}

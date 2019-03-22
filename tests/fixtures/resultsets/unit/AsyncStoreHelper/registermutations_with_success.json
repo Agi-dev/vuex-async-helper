@@ -1,0 +1,6 @@
+[
+  "mutationsAlreadyExists",
+  "setAsyncFnPending",
+  "setAsyncFnSuccess",
+  "setAsyncFnFailure"
+]
